@@ -1,0 +1,13 @@
+.VendingMachine {
+    background-color: lightseagreen;
+}
+
+.VendingMachine a {
+    padding: 10px;
+    color: rgba(255, 255, 255, 0.6)
+}
+
+.VendingMachine a.active {
+    font-weight: bold;
+    color: white
+}
